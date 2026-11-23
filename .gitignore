@@ -1,0 +1,22 @@
+# Keil uVision build products
+**/Objects/
+**/Listings/
+*.o
+*.crf
+*.d
+*.dep
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.build_log.htm
+**/MDK-ARM/**/*.htm
+*.uvoptx
+*.uvguix.*
+
+# Python cache and local editor settings
+__pycache__/
+*.py[cod]
+**/.vscode/
